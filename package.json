@@ -3,6 +3,8 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "latest"
+    "express": "latest",
+    "node-fetch": "^2.7.0"
   }
 }
+
